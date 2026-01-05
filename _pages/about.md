@@ -26,4 +26,4 @@ with a focus on Computer Vision and Natural Language Processing.
 My work involves building and evaluating AI systems, research-grade machine learning pipelines, and large-scale experiments.
 I have experience running both open- and closed-source LLM inference via APIs and local/cluster-based execution.
 
-I am currently seeking AI Research / Machine Learning internship opportunities.
+I am currently seeking AI Research and Machine Learning internship opportunities.
