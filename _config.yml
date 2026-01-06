@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # leave blank so the full name is used
+title: "" # leave blank so the full name is used
 first_name: Adam
 middle_name: ""
 last_name: Bawatneh
