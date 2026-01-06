@@ -7,7 +7,7 @@ subtitle: PhD Computer Science · AI Research (Computer Vision, NLP)
 profile:
   align: right
   image: adam.jpg
-  image_circular: false
+  image_circular: true
   more_info: >
     <p>Orlando, FL</p>
 
